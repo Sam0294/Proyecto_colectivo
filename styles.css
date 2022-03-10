@@ -1,0 +1,20 @@
+.footer{
+    width: 500px;
+    margin: 0px;
+}
+.left-side{
+
+    border-radius: 0px 35px 0px 35px ;
+    background-color: grey;
+
+}
+.left-side h1 p{
+    margin: auto;
+    text-align: block-left;
+    width: 40%;
+
+}
+.right-side{
+    width: 60%;
+
+}
